@@ -1,7 +1,7 @@
 ### Hello, I'm Carl James - [website] 👋
 
-[![Website](https://img.shields.io/website?label=CarlJames.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Carllljamessss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=CarlJames.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://carljames-portfolio.web.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Carllljamessss?color=1DA1F2&logo=twitter&style=for-the-badge)](https//www.twitter.com/Carllljamessss)
 
 ## I'm a Student, and a self taught Developer!!
 
