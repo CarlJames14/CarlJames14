@@ -1,6 +1,6 @@
 ### Hello, I'm Carl James - [website] 👋
 
-[![Website](https://img.shields.io/website?label=CarlJames.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://carljamesroxas.netlify.app/)
+[![Website](https://img.shields.io/website?label=CarlJames.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://carljamesroxas.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Carllljamessss?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Student, and a self taught Web Developer!!
