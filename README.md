@@ -34,16 +34,6 @@
 <br />
 
 
-
----
-
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="CarlJames GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CarlJames14&show_icons=true&hide_border=true" />
-
-
-
 [website]: https://carljamesroxas.netlify.app/
 [twitter]: https://twitter.com/Carllljamessss
 [instagram]: https://instagram.com/carllljamessss
