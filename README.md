@@ -40,7 +40,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="carljames GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CarlJames14&show_icons=true&hide_border=true" />
+  <img align="left" alt="CarlJames GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CarlJames14&show_icons=true&hide_border=true" />
 
 
 
